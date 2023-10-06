@@ -1,0 +1,9 @@
+npx tailwindcss init
+first create 2 folder
+1) dist - distributaion
+2) src
+
+in dist ---> index.html
+in src- input.css --> write @tailwind base;
+                                                 @tailwind components;
+                                                 @tailwind utilities
